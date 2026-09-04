@@ -1,5 +1,4 @@
 # 100 Days of Code - Placement Prep 
-# 100 Days of Code - Placement Prep
 
 **Language:** Java
 **Start Date:** September 1, 2026
