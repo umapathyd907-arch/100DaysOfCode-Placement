@@ -14,4 +14,6 @@
 | 5 | Arrays | Best Time to Buy and Sell Stock | Single Pass Greedy |
 
 ## About Me
+
+Umapathi D
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
