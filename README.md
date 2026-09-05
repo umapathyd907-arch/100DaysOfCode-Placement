@@ -1,4 +1,3 @@
-# 100 Days of Code - Placement Prep 
 # 100 Days of Code - Placement Prep
 
 **Language:** Java
@@ -12,6 +11,7 @@
 | 2 | Arrays | Contains Duplicate | HashSet |
 | 3 | Strings | Valid Anagram | Array Frequency Count |
 | 4 | Two Pointers | Valid Palindrome | Two Pointers |
+| 5 | Arrays | Best Time to Buy and Sell Stock | Single Pass Greedy |
 
 ## About Me
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
