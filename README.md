@@ -12,6 +12,7 @@
 | 3 | Strings | Valid Anagram | Array Frequency Count |
 | 4 | Two Pointers | Valid Palindrome | Two Pointers |
 | 5 | Arrays | Best Time to Buy and Sell Stock | Single Pass Greedy |
+| 6 | Linked List | Linked List Cycle | Fast & Slow Pointers |
 
 ## About Me
 
