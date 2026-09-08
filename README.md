@@ -13,9 +13,10 @@
 | 4 | Two Pointers | Valid Palindrome | Two Pointers |
 | 5 | Arrays | Best Time to Buy and Sell Stock | Single Pass Greedy |
 | 6 | Linked List | Linked List Cycle | Fast & Slow Pointers |
+| 7 | Linked List | Reverse Linked List | Iterative Pointer Reversal |
+| 8 | Sliding Window | Longest Substring Without Repeating Characters | Sliding Window (HashSet) |
 
 ## About Me
-
 
 Umapathi D
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
