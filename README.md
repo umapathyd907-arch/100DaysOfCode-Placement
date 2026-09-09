@@ -15,6 +15,7 @@
 | 6 | Linked List | Linked List Cycle | Fast & Slow Pointers |
 | 7 | Linked List | Reverse Linked List | Iterative Pointer Reversal |
 | 8 | Sliding Window | Longest Substring Without Repeating Characters | Sliding Window (HashSet) |
+| 9 | Stack | Valid Parentheses | Stack (LIFO) |
 
 ## About Me
 
