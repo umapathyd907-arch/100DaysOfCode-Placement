@@ -17,7 +17,7 @@
 | 8 | Sliding Window | Longest Substring Without Repeating Characters | Sliding Window (HashSet) |
 | 9 | Stack | Valid Parentheses | Stack (LIFO) |
 
-## About Me
+## About Me:
 
 Umapathi D
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
