@@ -18,7 +18,7 @@
 | 9 | Stack | Valid Parentheses | Stack (LIFO) |
 | 10 | Math/Arrays | Find Numbers with Even Number of Digits | Digit Counting |
 
-## About Me
+## About Me:
 
 Umapathi D
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
