@@ -17,8 +17,9 @@
 | 8 | Sliding Window | Longest Substring Without Repeating Characters | Sliding Window (HashSet) |
 | 9 | Stack | Valid Parentheses | Stack (LIFO) |
 | 10 | Math/Arrays | Find Numbers with Even Number of Digits | Digit Counting |
+| 11 | Arrays | Product of Array Except Self | Prefix & Suffix Products |
 
-## About Me:
+## About Me
 
 Umapathi D
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
