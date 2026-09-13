@@ -19,6 +19,7 @@
 | 10 | Math/Arrays | Find Numbers with Even Number of Digits | Digit Counting |
 | 11 | Arrays | Product of Array Except Self | Prefix & Suffix Products |
 | 12 | Dynamic Programming | Maximum Subarray | Kadane's Algorithm |
+| 13 | Arrays | 3Sum | Sort + Two Pointers |
 
 ## About Me
 
