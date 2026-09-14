@@ -20,6 +20,7 @@
 | 11 | Arrays | Product of Array Except Self | Prefix & Suffix Products |
 | 12 | Dynamic Programming | Maximum Subarray | Kadane's Algorithm |
 | 13 | Arrays | 3Sum | Sort + Two Pointers |
+| 14 | Arrays/Strings | Group Anagrams | HashMap with Sorted Key |
 
 ## About Me
 
