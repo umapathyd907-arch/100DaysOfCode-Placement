@@ -21,6 +21,7 @@
 | 12 | Dynamic Programming | Maximum Subarray | Kadane's Algorithm |
 | 13 | Arrays | 3Sum | Sort + Two Pointers |
 | 14 | Arrays/Strings | Group Anagrams | HashMap with Sorted Key |
+| 15 | Binary Search | Binary Search | Divide & Conquer (Halving Search Space) |
 
 ## About Me
 
