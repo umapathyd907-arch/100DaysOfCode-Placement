@@ -22,8 +22,9 @@
 | 13 | Arrays | 3Sum | Sort + Two Pointers |
 | 14 | Arrays/Strings | Group Anagrams | HashMap with Sorted Key |
 | 15 | Binary Search | Binary Search | Divide & Conquer (Halving Search Space) |
+| 16 | Binary Search | Search in Rotated Sorted Array | Modified Binary Search |
 
 ## About Me
 
 Umapathi D
-ISE student preparing for placements. This repo tracks my daily DSA practice using Java, building consistency and pattern recognition for technical interviews.
+ISE student preparing for placements. This repo tracks my daily DSA practice using Java,
