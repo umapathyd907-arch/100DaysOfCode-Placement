@@ -1,5 +1,3 @@
-
-
 # 100 Days of Code - Placement Prep
 
 **Language:** Java
@@ -29,6 +27,7 @@
 | 15  | Binary Search       | Binary Search                                  | Divide & Conquer (Halving Search Space) |
 | 16  | Binary Search       | Search in Rotated Sorted Array                 | Modified Binary Search                  |
 | 17  | Arrays/Sorting      | Merge Intervals                                | Sort + Sweep                            |
+| 18  | HashMap/Heap        | Top K Frequent Elements                        | HashMap + Min Heap                      |
 
 ## About Me
 
