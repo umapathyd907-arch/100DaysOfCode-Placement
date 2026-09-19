@@ -9,7 +9,7 @@
 ## Progress Log
 
 | Day | Topic               | Problem                                        | Pattern                                 |
-| --- | ------------------- | ---------------------------------------------- | --------------------------------------- |
+| --- | ------------------- | ----------------------------------------------- | --------------------------------------- |
 | 1   | Arrays              | Two Sum                                        | HashMap                                 |
 | 2   | Arrays              | Contains Duplicate                             | HashSet                                 |
 | 3   | Strings             | Valid Anagram                                  | Array Frequency Count                   |
@@ -28,6 +28,7 @@
 | 16  | Binary Search       | Search in Rotated Sorted Array                 | Modified Binary Search                  |
 | 17  | Arrays/Sorting      | Merge Intervals                                | Sort + Sweep                            |
 | 18  | HashMap/Heap        | Top K Frequent Elements                        | HashMap + Min Heap                      |
+| 19  | Graphs              | Number of Islands                              | DFS on Grid                             |
 
 ## About Me
 
