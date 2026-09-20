@@ -23,15 +23,4 @@
 | 11  | Arrays              | Product of Array Except Self                   | Prefix & Suffix Products                |
 | 12  | Dynamic Programming | Maximum Subarray                               | Kadane's Algorithm                      |
 | 13  | Arrays              | 3Sum                                           | Sort + Two Pointers                     |
-| 14  | Arrays/Strings      | Group Anagrams                                 | HashMap with Sorted Key                 |
-| 15  | Binary Search       | Binary Search                                  | Divide & Conquer (Halving Search Space) |
-| 16  | Binary Search       | Search in Rotated Sorted Array                 | Modified Binary Search                  |
-| 17  | Arrays/Sorting      | Merge Intervals                                | Sort + Sweep                            |
-| 18  | HashMap/Heap        | Top K Frequent Elements                        | HashMap + Min Heap                      |
-| 19  | Graphs              | Number of Islands                              | DFS on Grid                             |
-
-## About Me
-
-**Umapathi D**
-
-ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
+| 14  |
