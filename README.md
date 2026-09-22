@@ -31,6 +31,7 @@
 | 19  | Graphs              | Number of Islands                              | DFS on Grid                             |
 | 20  | Trees/BFS           | Binary Tree Level Order Traversal              | BFS with Queue                          |
 | 21  | Trees               | Validate Binary Search Tree                    | Recursive Range Validation              |
+| 22 | Graphs               | Course Schedule                                | DFS Cycle Detection                     |
 
 ## About Me
 
