@@ -9,7 +9,7 @@
 ## Progress Log
 
 | Day | Topic               | Problem                                        | Pattern                                 |
-| --- | ------------------- | ----------------------------------------------- | --------------------------------------- |
+| --- | ------------------- | ---------------------------------------------- | --------------------------------------- |
 | 1   | Arrays              | Two Sum                                        | HashMap                                 |
 | 2   | Arrays              | Contains Duplicate                             | HashSet                                 |
 | 3   | Strings             | Valid Anagram                                  | Array Frequency Count                   |
@@ -31,7 +31,8 @@
 | 19  | Graphs              | Number of Islands                              | DFS on Grid                             |
 | 20  | Trees/BFS           | Binary Tree Level Order Traversal              | BFS with Queue                          |
 | 21  | Trees               | Validate Binary Search Tree                    | Recursive Range Validation              |
-| 22 | Graphs               | Course Schedule                                | DFS Cycle Detection                     |
+| 22  | Graphs              | Course Schedule                                | DFS Cycle Detection                     |
+| 23  | Arrays/Heap         | Kth Largest Element in an Array                | Min Heap (Priority Queue)               |
 
 ## About Me
 
