@@ -33,6 +33,7 @@
 | 21  | Trees               | Validate Binary Search Tree                    | Recursive Range Validation              |
 | 22  | Graphs              | Course Schedule                                | DFS Cycle Detection                     |
 | 23  | Arrays/Heap         | Kth Largest Element in an Array                | Min Heap (Priority Queue)               |
+| 24  | Arrays/Prefix Sum   | Subarray Sum Equals K                          | Prefix Sum + HashMap                    |
 
 ## About Me
 
