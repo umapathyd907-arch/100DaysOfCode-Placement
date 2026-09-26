@@ -34,7 +34,8 @@
 | 22  | Graphs              | Course Schedule                                | DFS Cycle Detection                     |
 | 23  | Arrays/Heap         | Kth Largest Element in an Array                | Min Heap (Priority Queue)               |
 | 24  | Arrays/Prefix Sum   | Subarray Sum Equals K                          | Prefix Sum + HashMap                    |
-| 25 | Dynamic Programming  | Word Break                                     | Bottom-Up DP (Boolean Array)            |
+| 25  | Dynamic Programming | Word Break                                     | Bottom-Up DP (Boolean Array)            |
+| 26  | Dynamic Programming | Climbing Stairs                                | Iterative DP (Fibonacci Pattern)        |
 
 ## About Me
 
