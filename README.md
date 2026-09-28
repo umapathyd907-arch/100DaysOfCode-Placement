@@ -36,7 +36,8 @@
 | 24  | Arrays/Prefix Sum   | Subarray Sum Equals K                          | Prefix Sum + HashMap                    |
 | 25  | Dynamic Programming | Word Break                                     | Bottom-Up DP (Boolean Array)            |
 | 26  | Dynamic Programming | Climbing Stairs                                | Iterative DP (Fibonacci Pattern)        |
-| 27  | Backtracking        | Subsets                                        | Choose/Explore/Unchoose |
+| 27  | Backtracking        | Subsets                                        | Choose/Explore/Unchoose                 |
+| 28  | Design | LRU Cache  | HashMap                                        | Doubly Linked List                      |
 
 ## About Me
 
