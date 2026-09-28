@@ -1,9 +1,7 @@
 # 100 Days of Code - Placement Prep
 
 **Language:** Java
-
 **Start Date:** September 1, 2026
-
 **Goal:** Crack top MNC/product company placement
 
 ## Progress Log
@@ -17,7 +15,7 @@
 | 5   | Arrays              | Best Time to Buy and Sell Stock                | Single Pass Greedy                      |
 | 6   | Linked List         | Linked List Cycle                              | Fast & Slow Pointers                    |
 | 7   | Linked List         | Reverse Linked List                            | Iterative Pointer Reversal              |
-| 8   | Sliding Window      | Longest Substring Without Repeating Characters | Sliding Window (HashSet)                |
+| 8   | Sliding Window      | Longest Substring Without Repeating Characters | Sliding Window + HashSet                |
 | 9   | Stack               | Valid Parentheses                              | Stack (LIFO)                            |
 | 10  | Math/Arrays         | Find Numbers with Even Number of Digits        | Digit Counting                          |
 | 11  | Arrays              | Product of Array Except Self                   | Prefix & Suffix Products                |
@@ -36,8 +34,8 @@
 | 24  | Arrays/Prefix Sum   | Subarray Sum Equals K                          | Prefix Sum + HashMap                    |
 | 25  | Dynamic Programming | Word Break                                     | Bottom-Up DP (Boolean Array)            |
 | 26  | Dynamic Programming | Climbing Stairs                                | Iterative DP (Fibonacci Pattern)        |
-| 27  | Backtracking        | Subsets                                        | Choose/Explore/Unchoose                 |
-| 28  | Design | LRU Cache  | HashMap                                        | Doubly Linked List                      |
+| 27  | Backtracking        | Subsets                                        | Choose / Explore / Unchoose             |
+| 28  | Design              | LRU Cache                                      | HashMap + Doubly Linked List            |
 
 ## About Me
 
