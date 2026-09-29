@@ -36,9 +36,12 @@
 | 26  | Dynamic Programming | Climbing Stairs                                | Iterative DP (Fibonacci Pattern)        |
 | 27  | Backtracking        | Subsets                                        | Choose / Explore / Unchoose             |
 | 28  | Design              | LRU Cache                                      | HashMap + Doubly Linked List            |
+| 29  | Strings/DP          | Longest Palindromic Substring                  | Expand Around Center                    |
 
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
+
+**Current Progress:** 29 / 100 Days Complete 🔥
