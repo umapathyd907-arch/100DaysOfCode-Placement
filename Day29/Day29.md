@@ -11,4 +11,4 @@
 
 **Why this matters:** Frequently asked at Amazon, Microsoft, Meta. Follow-up: O(n) solution exists via Manacher's Algorithm (advanced, good to know exists).
 
-**Time spent:** ~65 min
+**Time spent:** ~60 min
