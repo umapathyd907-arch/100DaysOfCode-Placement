@@ -37,6 +37,7 @@
 | 27  | Backtracking        | Subsets                                        | Choose / Explore / Unchoose             |
 | 28  | Design              | LRU Cache                                      | HashMap + Doubly Linked List            |
 | 29  | Strings/DP          | Longest Palindromic Substring                  | Expand Around Center                    |
+| 30  | Two Pointers        | Trapping Rain Water (Hard)                     | Two Pointers                            |
 
 ## About Me
 
