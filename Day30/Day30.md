@@ -11,4 +11,4 @@
 
 **Why this matters:** Extremely famous interview problem, frequently used as a bar-raiser question at Amazon, Google, Microsoft. Genuinely tests deep array/two-pointer understanding.
 
-**Time spent:** ~75 min (Hard problem, took extra time to understand the two-pointer insight)
+**Time spent:** ~70 min (Hard problem, took extra time to understand the two-pointer insight)
