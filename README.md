@@ -39,6 +39,7 @@
 | 29  | Strings/DP          | Longest Palindromic Substring                  | Expand Around Center                    |
 | 30  | Two Pointers        | Trapping Rain Water (Hard)                     | Two Pointers                            |
 | 31  | Design/Trees        | Implement Trie (Prefix Tree)                   | Tree of Characters                      |
+| 32  | Trees/BST           | Lowest Common Ancestor of a BST                | Exploit BST Property                    |
 
 ## About Me
 
@@ -46,4 +47,4 @@
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
 
-**Current Progress:** 31 / 100 Days Complete 🔥
+**Current Progress:** 32 / 100 Days Complete 🔥
