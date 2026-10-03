@@ -40,6 +40,7 @@
 | 30  | Two Pointers        | Trapping Rain Water (Hard)                     | Two Pointers                            |
 | 31  | Design/Trees        | Implement Trie (Prefix Tree)                   | Tree of Characters                      |
 | 32  | Trees/BST           | Lowest Common Ancestor of a BST                | Exploit BST Property                    |
+| 33  | Two Pointers        | Container With Most Water                      | Greedy Two Pointers                     |
 
 ## About Me
 
@@ -47,4 +48,4 @@
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
 
-**Current Progress:** 32 / 100 Days Complete 🔥
+**Current Progress:** 33 / 100 Days Complete 🔥
