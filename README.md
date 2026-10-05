@@ -42,6 +42,7 @@
 | 32  | Trees/BST           | Lowest Common Ancestor of a BST                | Exploit BST Property                    |
 | 33  | Two Pointers        | Container With Most Water                      | Greedy Two Pointers                     |
 | 34  | Graphs/BFS          | Rotting Oranges                                | Multi-Source BFS                        |
+| 35  | Dynamic Programming | Coin Change                                    | Bottom-Up DP (Unbounded)                |
 
 ## About Me
 
@@ -49,4 +50,4 @@
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
 
-**Current Progress:** 34 / 100 Days Complete 🔥
+**Current Progress:** 35 / 100 Days Complete 🔥
