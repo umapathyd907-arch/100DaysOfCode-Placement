@@ -43,6 +43,7 @@
 | 33  | Two Pointers        | Container With Most Water                      | Greedy Two Pointers                     |
 | 34  | Graphs/BFS          | Rotting Oranges                                | Multi-Source BFS                        |
 | 35  | Dynamic Programming | Coin Change                                    | Bottom-Up DP (Unbounded)                |
+| 36  | Backtracking        | Combination Sum                                | Backtracking with Reuse                 |
 
 ## About Me
 
@@ -50,4 +51,4 @@
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
 
-**Current Progress:** 35 / 100 Days Complete 🔥
+**Current Progress:** 36 / 100 Days Complete 🔥
