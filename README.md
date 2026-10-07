@@ -44,6 +44,7 @@
 | 34  | Graphs/BFS          | Rotting Oranges                                | Multi-Source BFS                        |
 | 35  | Dynamic Programming | Coin Change                                    | Bottom-Up DP (Unbounded)                |
 | 36  | Backtracking        | Combination Sum                                | Backtracking with Reuse                 |
+| 37  | Backtracking        | Permutations                                   | Backtracking with Used-Tracking         |
 
 ## About Me
 
