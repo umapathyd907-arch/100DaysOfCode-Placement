@@ -53,4 +53,4 @@
 
 ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
 
-**Current Progress:** 36 / 100 Days Complete 🔥
+**Current Progress:** 37 / 100 Days Complete 🔥
