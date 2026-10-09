@@ -46,12 +46,22 @@
 | 36  | Backtracking        | Combination Sum                                | Backtracking with Reuse                 |
 | 37  | Backtracking        | Permutations                                   | Backtracking with Used-Tracking         |
 | 38  | Greedy              | Jump Game                                      | Track Farthest Reachable                |
-| 39  | Strings             |  Index of the First Occurrence in a String     | Sliding Window Comparison               |
+| 39  | Strings             | Index of the First Occurrence in a String      | Sliding Window Comparison               |
 
 ## About Me
 
 **Umapathi D**
 
-ISE student preparing for placements. This repo tracks my daily DSA practice using Java.
+ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
 **Current Progress:** 39 / 100 Days Complete 🔥
+
+**Focus Areas:**
+
+* Java Programming
+* Data Structures and Algorithms
+* Problem-Solving Skills
+* Software Engineering Interviews
+* Top MNC/Product Company Placement Preparation
+
+**Goal:** Stay consistent, improve problem-solving skills, and become a Software Engineer.
