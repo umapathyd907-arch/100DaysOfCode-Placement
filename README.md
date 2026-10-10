@@ -47,6 +47,7 @@
 | 37  | Backtracking        | Permutations                                   | Backtracking with Used-Tracking         |
 | 38  | Greedy              | Jump Game                                      | Track Farthest Reachable                |
 | 39  | Strings             | Index of the First Occurrence in a String      | Sliding Window Comparison               |
+| 40  | Linked List/Heap     | Merge k Sorted Lists                          | Min-Heap + Dummy Node                   |
 
 ## About Me
 
@@ -54,7 +55,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 39 / 100 Days Complete 🔥
+**Current Progress:** 40 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
