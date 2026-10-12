@@ -49,6 +49,7 @@
 | 39  | Strings             | Index of the First Occurrence in a String      | Sliding Window Comparison               |
 | 40  | Linked List/Heap    | Merge k Sorted Lists                           | Min-Heap + Dummy Node                   |
 | 41  | Two Pointers        | Move Zeroes                                    | In-Place Read/Write Pointers            |
+| 42  | Linked List         | Sort List                                      | Merge Sort (Slow/Fast + Merge)          |
 
 ## About Me
 
@@ -56,7 +57,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 41 / 100 Days Complete 🔥
+**Current Progress:** 42 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
