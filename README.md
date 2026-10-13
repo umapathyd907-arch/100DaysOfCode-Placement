@@ -50,6 +50,7 @@
 | 40  | Linked List/Heap    | Merge k Sorted Lists                           | Min-Heap + Dummy Node                   |
 | 41  | Two Pointers        | Move Zeroes                                    | In-Place Read/Write Pointers            |
 | 42  | Linked List         | Sort List                                      | Merge Sort (Slow/Fast + Merge)          |
+| 43  | Sorting/Two Pointers| Sort Colors (Quick Sort partition)             | Dutch National Flag                     |
 
 ## About Me
 
@@ -57,7 +58,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 42 / 100 Days Complete 🔥
+**Current Progress:** 43 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
