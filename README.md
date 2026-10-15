@@ -52,6 +52,7 @@
 | 42  | Linked List         | Sort List                                      | Merge Sort (Slow/Fast + Merge)          |
 | 43  | Sorting/Two Pointers| Sort Colors (Quick Sort partition)             | Dutch National Flag                     |
 | 44  | Sliding Window      | Minimum Window Substring (Hard)                | Variable Window + Counts                |
+| 45  | Backtracking/Graphs | Word Search                                    | Grid DFS + Backtracking                 |
 
 ## About Me
 
@@ -59,7 +60,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 44 / 100 Days Complete 🔥
+**Current Progress:** 45 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
