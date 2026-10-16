@@ -53,6 +53,7 @@
 | 43  | Sorting/Two Pointers| Sort Colors (Quick Sort partition)             | Dutch National Flag                     |
 | 44  | Sliding Window      | Minimum Window Substring (Hard)                | Variable Window + Counts                |
 | 45  | Backtracking/Graphs | Word Search                                    | Grid DFS + Backtracking                 |
+| 46  | Arrays              | Max Consecutive Ones                           | Running Counter                         |
 
 ## About Me
 
@@ -60,7 +61,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 45 / 100 Days Complete 🔥
+**Current Progress:** 46 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
