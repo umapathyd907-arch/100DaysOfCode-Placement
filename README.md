@@ -54,6 +54,7 @@
 | 44  | Sliding Window      | Minimum Window Substring (Hard)                | Variable Window + Counts                |
 | 45  | Backtracking/Graphs | Word Search                                    | Grid DFS + Backtracking                 |
 | 46  | Arrays              | Max Consecutive Ones                           | Running Counter                         |
+| 47  | Trees               | Lowest Common Ancestor of a Binary Tree        | Recursive Post-Order                    |
 
 ## About Me
 
@@ -61,7 +62,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 46 / 100 Days Complete 🔥
+**Current Progress:** 47 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
