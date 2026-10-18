@@ -55,6 +55,7 @@
 | 45  | Backtracking/Graphs | Word Search                                    | Grid DFS + Backtracking                 |
 | 46  | Arrays              | Max Consecutive Ones                           | Running Counter                         |
 | 47  | Trees               | Lowest Common Ancestor of a Binary Tree        | Recursive Post-Order                    |
+| 48  | Dynamic Programming | Longest Increasing Subsequence                 | DP (+ Binary Search optimization)       |
 
 ## About Me
 
@@ -62,7 +63,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 47 / 100 Days Complete 🔥
+**Current Progress:** 48/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
