@@ -57,6 +57,7 @@
 | 47  | Trees               | Lowest Common Ancestor of a Binary Tree        | Recursive Post-Order                    |
 | 48  | Dynamic Programming | Longest Increasing Subsequence                 | DP (+ Binary Search optimization)       |
 | 49  | Arrays              | Majority Element                               | Boyer-Moore Voting                      |
+| 50  | Arrays/HashSet      | Longest Consecutive Sequence                   | HashSet + Sequence Start                |
 
 ## About Me
 
@@ -64,7 +65,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 49/ 100 Days Complete 🔥
+**Current Progress:** 50/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
