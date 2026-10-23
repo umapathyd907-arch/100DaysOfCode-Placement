@@ -60,6 +60,9 @@
 | 50  | Arrays/HashSet      | Longest Consecutive Sequence                   | HashSet + Sequence Start                |
 | 51  | Arrays/Two Pointers | 4Sum                                           | Sort + Nested Loops + Two Pointers      |
 | 52  | Arrays/Matrix       | Find Missing and Repeated Values               | Frequency Count                         |
+| 53  | Divide and Conquer  | Reverse Pairs (Hard)                           | Merge Sort + Counting                   |
+
+
 
 ## About Me
 
@@ -67,7 +70,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 52/ 100 Days Complete 🔥
+**Current Progress:** 53/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
