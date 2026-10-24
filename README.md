@@ -6,63 +6,62 @@
 
 ## Progress Log
 
-| Day | Topic               | Problem                                        | Pattern                                 |
-| --- | ------------------- | ---------------------------------------------- | --------------------------------------- |
-| 1   | Arrays              | Two Sum                                        | HashMap                                 |
-| 2   | Arrays              | Contains Duplicate                             | HashSet                                 |
-| 3   | Strings             | Valid Anagram                                  | Array Frequency Count                   |
-| 4   | Two Pointers        | Valid Palindrome                               | Two Pointers                            |
-| 5   | Arrays              | Best Time to Buy and Sell Stock                | Single Pass Greedy                      |
-| 6   | Linked List         | Linked List Cycle                              | Fast & Slow Pointers                    |
-| 7   | Linked List         | Reverse Linked List                            | Iterative Pointer Reversal              |
-| 8   | Sliding Window      | Longest Substring Without Repeating Characters | Sliding Window + HashSet                |
-| 9   | Stack               | Valid Parentheses                              | Stack (LIFO)                            |
-| 10  | Math/Arrays         | Find Numbers with Even Number of Digits        | Digit Counting                          |
-| 11  | Arrays              | Product of Array Except Self                   | Prefix & Suffix Products                |
-| 12  | Dynamic Programming | Maximum Subarray                               | Kadane's Algorithm                      |
-| 13  | Arrays              | 3Sum                                           | Sort + Two Pointers                     |
-| 14  | Arrays/Strings      | Group Anagrams                                 | HashMap with Sorted Key                 |
-| 15  | Binary Search       | Binary Search                                  | Divide & Conquer (Halving Search Space) |
-| 16  | Binary Search       | Search in Rotated Sorted Array                 | Modified Binary Search                  |
-| 17  | Arrays/Sorting      | Merge Intervals                                | Sort + Sweep                            |
-| 18  | HashMap/Heap        | Top K Frequent Elements                        | HashMap + Min Heap                      |
-| 19  | Graphs              | Number of Islands                              | DFS on Grid                             |
-| 20  | Trees/BFS           | Binary Tree Level Order Traversal              | BFS with Queue                          |
-| 21  | Trees               | Validate Binary Search Tree                    | Recursive Range Validation              |
-| 22  | Graphs              | Course Schedule                                | DFS Cycle Detection                     |
-| 23  | Arrays/Heap         | Kth Largest Element in an Array                | Min Heap (Priority Queue)               |
-| 24  | Arrays/Prefix Sum   | Subarray Sum Equals K                          | Prefix Sum + HashMap                    |
-| 25  | Dynamic Programming | Word Break                                     | Bottom-Up DP (Boolean Array)            |
-| 26  | Dynamic Programming | Climbing Stairs                                | Iterative DP (Fibonacci Pattern)        |
-| 27  | Backtracking        | Subsets                                        | Choose / Explore / Unchoose             |
-| 28  | Design              | LRU Cache                                      | HashMap + Doubly Linked List            |
-| 29  | Strings/DP          | Longest Palindromic Substring                  | Expand Around Center                    |
-| 30  | Two Pointers        | Trapping Rain Water (Hard)                     | Two Pointers                            |
-| 31  | Design/Trees        | Implement Trie (Prefix Tree)                   | Tree of Characters                      |
-| 32  | Trees/BST           | Lowest Common Ancestor of a BST                | Exploit BST Property                    |
-| 33  | Two Pointers        | Container With Most Water                      | Greedy Two Pointers                     |
-| 34  | Graphs/BFS          | Rotting Oranges                                | Multi-Source BFS                        |
-| 35  | Dynamic Programming | Coin Change                                    | Bottom-Up DP (Unbounded)                |
-| 36  | Backtracking        | Combination Sum                                | Backtracking with Reuse                 |
-| 37  | Backtracking        | Permutations                                   | Backtracking with Used-Tracking         |
-| 38  | Greedy              | Jump Game                                      | Track Farthest Reachable                |
-| 39  | Strings             | Index of the First Occurrence in a String      | Sliding Window Comparison               |
-| 40  | Linked List/Heap    | Merge k Sorted Lists                           | Min-Heap + Dummy Node                   |
-| 41  | Two Pointers        | Move Zeroes                                    | In-Place Read/Write Pointers            |
-| 42  | Linked List         | Sort List                                      | Merge Sort (Slow/Fast + Merge)          |
-| 43  | Sorting/Two Pointers| Sort Colors (Quick Sort partition)             | Dutch National Flag                     |
-| 44  | Sliding Window      | Minimum Window Substring (Hard)                | Variable Window + Counts                |
-| 45  | Backtracking/Graphs | Word Search                                    | Grid DFS + Backtracking                 |
-| 46  | Arrays              | Max Consecutive Ones                           | Running Counter                         |
-| 47  | Trees               | Lowest Common Ancestor of a Binary Tree        | Recursive Post-Order                    |
-| 48  | Dynamic Programming | Longest Increasing Subsequence                 | DP (+ Binary Search optimization)       |
-| 49  | Arrays              | Majority Element                               | Boyer-Moore Voting                      |
-| 50  | Arrays/HashSet      | Longest Consecutive Sequence                   | HashSet + Sequence Start                |
-| 51  | Arrays/Two Pointers | 4Sum                                           | Sort + Nested Loops + Two Pointers      |
-| 52  | Arrays/Matrix       | Find Missing and Repeated Values               | Frequency Count                         |
-| 53  | Divide and Conquer  | Reverse Pairs (Hard)                           | Merge Sort + Counting                   |
-
-
+| Day | Topic                | Problem                                                 | Pattern                                 |
+| --- | -------------------- | ------------------------------------------------------- | --------------------------------------- |
+| 1   | Arrays               | Two Sum                                                 | HashMap                                 |
+| 2   | Arrays               | Contains Duplicate                                      | HashSet                                 |
+| 3   | Strings              | Valid Anagram                                           | Array Frequency Count                   |
+| 4   | Two Pointers         | Valid Palindrome                                        | Two Pointers                            |
+| 5   | Arrays               | Best Time to Buy and Sell Stock                         | Single Pass Greedy                      |
+| 6   | Linked List          | Linked List Cycle                                       | Fast & Slow Pointers                    |
+| 7   | Linked List          | Reverse Linked List                                     | Iterative Pointer Reversal              |
+| 8   | Sliding Window       | Longest Substring Without Repeating Characters          | Sliding Window + HashSet                |
+| 9   | Stack                | Valid Parentheses                                       | Stack (LIFO)                            |
+| 10  | Math/Arrays          | Find Numbers with Even Number of Digits                 | Digit Counting                          |
+| 11  | Arrays               | Product of Array Except Self                            | Prefix & Suffix Products                |
+| 12  | Dynamic Programming  | Maximum Subarray                                        | Kadane's Algorithm                      |
+| 13  | Arrays               | 3Sum                                                    | Sort + Two Pointers                     |
+| 14  | Arrays/Strings       | Group Anagrams                                          | HashMap with Sorted Key                 |
+| 15  | Binary Search        | Binary Search                                           | Divide & Conquer (Halving Search Space) |
+| 16  | Binary Search        | Search in Rotated Sorted Array                          | Modified Binary Search                  |
+| 17  | Arrays/Sorting       | Merge Intervals                                         | Sort + Sweep                            |
+| 18  | HashMap/Heap         | Top K Frequent Elements                                 | HashMap + Min Heap                      |
+| 19  | Graphs               | Number of Islands                                       | DFS on Grid                             |
+| 20  | Trees/BFS            | Binary Tree Level Order Traversal                       | BFS with Queue                          |
+| 21  | Trees                | Validate Binary Search Tree                             | Recursive Range Validation              |
+| 22  | Graphs               | Course Schedule                                         | DFS Cycle Detection                     |
+| 23  | Arrays/Heap          | Kth Largest Element in an Array                         | Min Heap (Priority Queue)               |
+| 24  | Arrays/Prefix Sum    | Subarray Sum Equals K                                   | Prefix Sum + HashMap                    |
+| 25  | Dynamic Programming  | Word Break                                              | Bottom-Up DP (Boolean Array)            |
+| 26  | Dynamic Programming  | Climbing Stairs                                         | Iterative DP (Fibonacci Pattern)        |
+| 27  | Backtracking         | Subsets                                                 | Choose / Explore / Unchoose             |
+| 28  | Design               | LRU Cache                                               | HashMap + Doubly Linked List            |
+| 29  | Strings/DP           | Longest Palindromic Substring                           | Expand Around Center                    |
+| 30  | Two Pointers         | Trapping Rain Water (Hard)                              | Two Pointers                            |
+| 31  | Design/Trees         | Implement Trie (Prefix Tree)                            | Tree of Characters                      |
+| 32  | Trees/BST            | Lowest Common Ancestor of a BST                         | Exploit BST Property                    |
+| 33  | Two Pointers         | Container With Most Water                               | Greedy Two Pointers                     |
+| 34  | Graphs/BFS           | Rotting Oranges                                         | Multi-Source BFS                        |
+| 35  | Dynamic Programming  | Coin Change                                             | Bottom-Up DP (Unbounded)                |
+| 36  | Backtracking         | Combination Sum                                         | Backtracking with Reuse                 |
+| 37  | Backtracking         | Permutations                                            | Backtracking with Used-Tracking         |
+| 38  | Greedy               | Jump Game                                               | Track Farthest Reachable                |
+| 39  | Strings              | Index of the First Occurrence in a String               | Sliding Window Comparison               |
+| 40  | Linked List/Heap     | Merge k Sorted Lists                                    | Min-Heap + Dummy Node                   |
+| 41  | Two Pointers         | Move Zeroes                                             | In-Place Read/Write Pointers            |
+| 42  | Linked List          | Sort List                                               | Merge Sort (Slow/Fast + Merge)          |
+| 43  | Sorting/Two Pointers | Sort Colors (Quick Sort partition)                      | Dutch National Flag                     |
+| 44  | Sliding Window       | Minimum Window Substring (Hard)                         | Variable Window + Counts                |
+| 45  | Backtracking/Graphs  | Word Search                                             | Grid DFS + Backtracking                 |
+| 46  | Arrays               | Max Consecutive Ones                                    | Running Counter                         |
+| 47  | Trees                | Lowest Common Ancestor of a Binary Tree                 | Recursive Post-Order                    |
+| 48  | Dynamic Programming  | Longest Increasing Subsequence                          | DP (+ Binary Search optimization)       |
+| 49  | Arrays               | Majority Element                                        | Boyer-Moore Voting                      |
+| 50  | Arrays/HashSet       | Longest Consecutive Sequence                            | HashSet + Sequence Start                |
+| 51  | Arrays/Two Pointers  | 4Sum                                                    | Sort + Nested Loops + Two Pointers      |
+| 52  | Arrays/Matrix        | Find Missing and Repeated Values                        | Frequency Count                         |
+| 53  | Divide and Conquer   | Reverse Pairs (Hard)                                    | Merge Sort + Counting                   |
+| 54  | Binary Search        | Find First and Last Position of Element in Sorted Array | Boundary Binary Search                  |
 
 ## About Me
 
@@ -70,7 +69,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 53/ 100 Days Complete 🔥
+**Current Progress:** 54 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
