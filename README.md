@@ -62,6 +62,7 @@
 | 52  | Arrays/Matrix        | Find Missing and Repeated Values                        | Frequency Count                         |
 | 53  | Divide and Conquer   | Reverse Pairs (Hard)                                    | Merge Sort + Counting                   |
 | 54  | Binary Search        | Find First and Last Position of Element in Sorted Array | Boundary Binary Search                  |
+| 55  | Binary Search        | Search Insert Position                                  | Lower Bound Binary Search               |
 
 ## About Me
 
@@ -69,7 +70,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 54 / 100 Days Complete 🔥
+**Current Progress:** 55 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
