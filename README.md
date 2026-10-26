@@ -63,14 +63,14 @@
 | 53  | Divide and Conquer   | Reverse Pairs (Hard)                                    | Merge Sort + Counting                   |
 | 54  | Binary Search        | Find First and Last Position of Element in Sorted Array | Boundary Binary Search                  |
 | 55  | Binary Search        | Search Insert Position                                  | Lower Bound Binary Search               |
-
+| 56  | Binary Search        | Find Peak Element                                       | Binary Search on Slope                  |
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 55 / 100 Days Complete 🔥
+**Current Progress:** 56 / 100 Days Complete 🔥
 
 **Focus Areas:**
 
