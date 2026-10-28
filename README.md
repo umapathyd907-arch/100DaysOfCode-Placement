@@ -65,13 +65,14 @@
 | 55  | Binary Search        | Search Insert Position                                  | Lower Bound Binary Search               |
 | 56  | Binary Search        | Find Peak Element                                       | Binary Search on Slope                  |
 | 57  | Binary Search        | Search in Rotated Sorted Array II                       | Modified Binary Search + Duplicates     |
+| 58  | Binary Search        | Find Minimum in Rotated Sorted Array                    | Binary Search on Rotation Point         |
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 57 / 100 Days Complete 🔥
+**Current Progress:** 58/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
