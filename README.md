@@ -67,13 +67,14 @@
 | 57  | Binary Search        | Search in Rotated Sorted Array II                       | Modified Binary Search + Duplicates     |
 | 58  | Binary Search        | Find Minimum in Rotated Sorted Array                    | Binary Search on Rotation Point         |
 | 59  | Binary Search        | Single Element in a Sorted Array                        | Binary Search on Index Parity           |
+| 60  | Binary Search        | Koko Eating Bananas                                     | Binary Search on Answer                 |
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 59/ 100 Days Complete 🔥
+**Current Progress:** 60/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
