@@ -68,13 +68,14 @@
 | 58  | Binary Search        | Find Minimum in Rotated Sorted Array                    | Binary Search on Rotation Point         |
 | 59  | Binary Search        | Single Element in a Sorted Array                        | Binary Search on Index Parity           |
 | 60  | Binary Search        | Koko Eating Bananas                                     | Binary Search on Answer                 |
+| 61  | Binary Search        | Minimum Number of Days to Make m Bouquets               | Binary Search on Answer |
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 60/ 100 Days Complete 🔥
+**Current Progress:** 61/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
