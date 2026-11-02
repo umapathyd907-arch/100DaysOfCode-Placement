@@ -13,4 +13,4 @@
 
 **Why this matters:** Easy problem with an elegant O(log n) idea; tests reasoning about monotonic quantities.
 
-**Time spent:** ~20 min
+**Time spent:** ~25 min
