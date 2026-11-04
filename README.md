@@ -72,13 +72,14 @@
 | 62  | Binary Search        | Capacity To Ship Packages Within D Days                 | Binary Search on Answer                 |
 | 63  | Binary Search        | Kth Missing Positive Number                             | Binary Search on Missing Count          |
 | 64  | Binary Search        | Magnetic Force Between Two Balls                        | Binary Search on Answer (Maximize)      |
+| 65  | Binary Search        | Split Array Largest Sum (Hard)                          | Binary Search on Answer                 |
 ## About Me
 
 **Umapathi D**
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 64/ 100 Days Complete 🔥
+**Current Progress:** 65/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
