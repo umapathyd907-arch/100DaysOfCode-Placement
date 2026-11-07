@@ -75,6 +75,7 @@
 | 65  | Binary Search        | Split Array Largest Sum (Hard)                          | Binary Search on Answer                 |
 | 66  | Binary Search        | Minimum Limit of Balls in a Bag                         | Binary Search on Answer                 |
 | 67  | Binary Search        | Median of Two Sorted Arrays (Hard)                      | Binary Search on Partition              |
+| 68  | Binary Search        | Search a 2D Matrix                                      | Binary Search on Flattened Matrix       |
 
 
 ## About Me
@@ -84,7 +85,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 67/ 100 Days Complete 🔥
+**Current Progress:** 68/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
