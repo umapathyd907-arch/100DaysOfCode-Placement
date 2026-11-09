@@ -77,6 +77,7 @@
 | 67  | Binary Search        | Median of Two Sorted Arrays (Hard)                      | Binary Search on Partition              |
 | 68  | Binary Search        | Search a 2D Matrix                                      | Binary Search on Flattened Matrix       |
 | 69  | Matrix/Binary Search | Search a 2D Matrix II                                   | Staircase Search                        |
+| 70  | Graphs               | Clone Graph                                             | DFS + HashMap of Copies                 |
 
 
 ## About Me
@@ -86,7 +87,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 69/ 100 Days Complete 🔥
+**Current Progress:** 70/ 100 Days Complete 🔥
 
 **Focus Areas:**
 
