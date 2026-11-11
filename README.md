@@ -79,6 +79,7 @@
 | 69  | Matrix/Binary Search | Search a 2D Matrix II                                   | Staircase Search                        |
 | 70  | Graphs               | Clone Graph                                             | DFS + HashMap of Copies                 |
 | 71  | Trees/BST            | Kth Smallest Element in a BST                           | Iterative In-Order Traversal            |
+| 72  | Trees/BFS            | Binary Tree Right Side View                             | Level-Order BFS                         |
 
 
 ## About Me
@@ -88,10 +89,9 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 71/ 100 Days Complete 🔥
+**Current Progress:** 72/ 100 Days Complete 🔥
 
 **Focus Areas:**
-
 * Java Programming
 * Data Structures and Algorithms
 * Problem-Solving Skills
