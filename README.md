@@ -80,6 +80,7 @@
 | 70  | Graphs               | Clone Graph                                             | DFS + HashMap of Copies                 |
 | 71  | Trees/BST            | Kth Smallest Element in a BST                           | Iterative In-Order Traversal            |
 | 72  | Trees/BFS            | Binary Tree Right Side View                             | Level-Order BFS                         |
+| 73  | Dynamic Programming  | Unique Paths                                            | 2D Grid DP (1D optimized)               |
 
 
 ## About Me
@@ -89,7 +90,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 72/ 100 Days Complete 🔥
+**Current Progress:** 73/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
