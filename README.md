@@ -83,6 +83,7 @@
 | 73  | Dynamic Programming  | Unique Paths                                            | 2D Grid DP (1D optimized)               |
 | 74  | Binary Search        | Find a Peak Element II                                  | Binary Search on Columns                |
 | 75  | Binary Search        | Kth Smallest Element in a Sorted Matrix                 | Binary Search on Value + Staircase      |
+| 76  | Binary Search        | Find the Smallest Divisor Given a Threshold             | Binary Search on Answer                 |
 
 
 ## About Me
@@ -92,7 +93,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 75/ 100 Days Complete 🔥
+**Current Progress:** 76/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
