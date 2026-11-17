@@ -85,6 +85,7 @@
 | 75  | Binary Search        | Kth Smallest Element in a Sorted Matrix                 | Binary Search on Value + Staircase      |
 | 76  | Binary Search        | Find the Smallest Divisor Given a Threshold             | Binary Search on Answer                 |
 | 77  | Linked List/Arrays   | Find the Duplicate Number                               | Floyd's Cycle Detection                 |
+| 78  | Binary Search        | Maximum Candies Allocated to K Children                 | Binary Search on Answer (Maximize)      |
 
 
 ## About Me
@@ -94,7 +95,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 77/ 100 Days Complete 🔥
+**Current Progress:** 78/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
