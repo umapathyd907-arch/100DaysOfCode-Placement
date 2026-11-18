@@ -86,6 +86,7 @@
 | 76  | Binary Search        | Find the Smallest Divisor Given a Threshold             | Binary Search on Answer                 |
 | 77  | Linked List/Arrays   | Find the Duplicate Number                               | Floyd's Cycle Detection                 |
 | 78  | Binary Search        | Maximum Candies Allocated to K Children                 | Binary Search on Answer (Maximize)      |
+| 79  | Trees                | Binary Tree Preorder Traversal                          | Iterative Stack                         |
 
 
 ## About Me
@@ -95,7 +96,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 78/ 100 Days Complete 🔥
+**Current Progress:** 79/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
