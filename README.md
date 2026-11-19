@@ -87,6 +87,7 @@
 | 77  | Linked List/Arrays   | Find the Duplicate Number                               | Floyd's Cycle Detection                 |
 | 78  | Binary Search        | Maximum Candies Allocated to K Children                 | Binary Search on Answer (Maximize)      |
 | 79  | Trees                | Binary Tree Preorder Traversal                          | Iterative Stack                         |
+| 80  | Trees                | Binary Tree Inorder Traversal                           | Iterative Stack                         |
 
 
 ## About Me
@@ -96,7 +97,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 79/ 100 Days Complete 🔥
+**Current Progress:** 80/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
