@@ -88,6 +88,7 @@
 | 78  | Binary Search        | Maximum Candies Allocated to K Children                 | Binary Search on Answer (Maximize)      |
 | 79  | Trees                | Binary Tree Preorder Traversal                          | Iterative Stack                         |
 | 80  | Trees                | Binary Tree Inorder Traversal                           | Iterative Stack                         |
+| 81  | Trees                | Binary Tree Postorder Traversal                         | Iterative Stack (Reverse Preorder)      |
 
 
 ## About Me
@@ -97,7 +98,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 80/ 100 Days Complete 🔥
+**Current Progress:** 81/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
