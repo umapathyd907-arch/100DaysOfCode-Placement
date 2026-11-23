@@ -91,6 +91,7 @@
 | 81  | Trees                | Binary Tree Postorder Traversal                         | Iterative Stack (Reverse Preorder)      |
 | 82  | Trees                | Maximum Depth of Binary Tree                            | Recursive DFS (Postorder)               |
 | 83  | Trees                | Balanced Binary Tree                                    | Height with Early-Exit Signal           |
+| 84  | Trees                | Diameter of Binary Tree                                 | Height + Side Update                    |
 
 
 ## About Me
@@ -100,7 +101,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 83/ 100 Days Complete 🔥
+**Current Progress:** 84/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
