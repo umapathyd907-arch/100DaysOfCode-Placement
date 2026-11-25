@@ -93,6 +93,7 @@
 | 83  | Trees                | Balanced Binary Tree                                    | Height with Early-Exit Signal           |
 | 84  | Trees                | Diameter of Binary Tree                                 | Height + Side Update                    |
 | 85  | Trees                | Binary Tree Maximum Path Sum (Hard)                     | Gain Function + Side Update             |
+| 86  | Trees                | Same Tree                                               | Recursive Two-Tree Comparison           |
 
 
 ## About Me
@@ -102,7 +103,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 85/ 100 Days Complete 🔥
+**Current Progress:** 86/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
