@@ -95,6 +95,7 @@
 | 85  | Trees                | Binary Tree Maximum Path Sum (Hard)                     | Gain Function + Side Update             |
 | 86  | Trees                | Same Tree                                               | Recursive Two-Tree Comparison           |
 | 87  | Trees                | Symmetric Tree                                          | Recursive Mirror Comparison             |
+| 88  | Trees                | Vertical Order Traversal of a Binary Tree (Hard)        | DFS + Sort by (col, row, value)         |
 
 
 ## About Me
@@ -104,7 +105,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 87/ 100 Days Complete 🔥
+**Current Progress:** 88/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
