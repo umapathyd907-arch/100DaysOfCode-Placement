@@ -96,6 +96,7 @@
 | 86  | Trees                | Same Tree                                               | Recursive Two-Tree Comparison           |
 | 87  | Trees                | Symmetric Tree                                          | Recursive Mirror Comparison             |
 | 88  | Trees                | Vertical Order Traversal of a Binary Tree (Hard)        | DFS + Sort by (col, row, value)         |
+| 89  | Trees/BFS            | Maximum Width of Binary Tree                            | BFS with Heap-Style Indexes             |
 
 
 ## About Me
@@ -105,7 +106,7 @@
 
 ISE student preparing for placements. This repository tracks my daily DSA practice using Java.
 
-**Current Progress:** 88/ 100 Days Complete 🔥
+**Current Progress:** 89/ 100 Days Complete 🔥
 
 **Focus Areas:**
 * Java Programming
